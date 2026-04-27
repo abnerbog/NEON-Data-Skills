@@ -14,10 +14,10 @@ affiliations:
 date: 2026-04-27
 github: https://github.com/NEONScience/NEON-Data-Skills
 subject: Code Labs
-doi: https://doi.org/10.4211/hs.9922f9d181b64c9592b36293fe586491
+doi: https://doi.org/10.4211/hs.309edff2525142d28db9dfa53222a108
 venue:
   title: View Resource on HydroShare
-  url: https://hydroshare.org/resource/9922f9d181b64c9592b36293fe586491/
+  url: https://hydroshare.org/resource/309edff2525142d28db9dfa53222a108/
 ---
 
 # Introduction  
